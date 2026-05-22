@@ -37,11 +37,13 @@ export default function Home() {
 
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">
           <a
-            href="#"
-            className="rounded-full bg-blue-600 px-6 py-3 text-center font-bold text-white"
-          >
-            事前登録する
-          </a>
+  href="ここにGoogleフォームのURL"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="rounded-full bg-blue-600 px-6 py-3 text-center font-bold text-white"
+>
+  事前登録する
+</a>
 
           <a
   href="https://x.com/ir_watch_jp?s=21&t=Rs6ZEUBSRQUK8lYKjuzCyg"
