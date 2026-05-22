@@ -44,11 +44,13 @@ export default function Home() {
           </a>
 
           <a
-            href="#"
-            className="rounded-full border border-slate-300 px-6 py-3 text-center font-bold text-slate-700"
-          >
-            Xを見る
-          </a>
+  href="https://x.com/ir_watch_jp?s=21&t=Rs6ZEUBSRQUK8lYKjuzCyg"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="rounded-full border border-slate-300 px-6 py-3 text-center font-bold text-slate-700"
+>
+  Xを見る
+</a>
         </div>
       </section>
     </main>
