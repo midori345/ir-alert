@@ -37,7 +37,7 @@ export default function Home() {
 
         <div className="mt-8 flex flex-col gap-3 sm:flex-row">
           <a
-  href="ここにGoogleフォームのURL"
+  href="https://docs.google.com/forms/d/e/1FAIpQLSevxV7IE8qIDkPFXSXiQYutoc4DZJVOLwGF_7xb6ZC7wIiM_A/viewform?usp=dialog"
   target="_blank"
   rel="noopener noreferrer"
   className="rounded-full bg-blue-600 px-6 py-3 text-center font-bold text-white"
