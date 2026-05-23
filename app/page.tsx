@@ -41,6 +41,15 @@ export default function Home() {
     href="https://docs.google.com/forms/d/e/1FAIpQLSevxV7IE8qIDkPFXSXiQYutoc4DZJVOLwGF_7xb6ZC7wIiM_A/viewform?usp=dialog"
     target="_blank"
     rel="noopener noreferrer"
+    className="rounded-full bg-gray-600 px-6 py-3 text-center font-bold text-white"
+  >
+    事前登録する
+  </a>
+
+  <a
+    href="https://docs.google.com/forms/d/e/1FAIpQLSf8hqCSRh3ioF2jjQcLmIO0u_tRWR9qE2UnBzAicbKwmyFDNQ/viewform?usp=dialog"
+    target="_blank"
+    rel="noopener noreferrer"
     className="rounded-full bg-blue-600 px-6 py-3 text-center font-bold text-white"
   >
     有料登録する
