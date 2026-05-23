@@ -47,7 +47,7 @@ export default function Home() {
   </a>
 
   <a
-    href="https://docs.google.com/forms/d/e/1FAIpQLSf8hqCSRh3ioF2jjQcLmIO0u_tRWR9qE2UnBzAicbKwmyFDNQ/viewform?usp=dialog"
+    href="https://docs.google.com/spreadsheets/d/1qXh5kOibgAru43kHDPymbZ2HOpUGaFIgv0gfMN3dqeA/edit?gid=1970023610#gid=1970023610"
     target="_blank"
     rel="noopener noreferrer"
     className="rounded-full bg-blue-600 px-6 py-3 text-center font-bold text-white"
