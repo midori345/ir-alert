@@ -35,25 +35,27 @@ export default function Home() {
           </div>
         </div>
 
-        <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-          <a
-  href="https://docs.google.com/forms/d/e/1FAIpQLSevxV7IE8qIDkPFXSXiQYutoc4DZJVOLwGF_7xb6ZC7wIiM_A/viewform?usp=dialog"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="rounded-full bg-blue-600 px-6 py-3 text-center font-bold text-white"
->
-  事前登録する
-</a>
+       <div className="mt-8 flex flex-col gap-3 sm:flex-row">
 
-          <a
-  href="https://x.com/ir_watch_jp?s=21&t=Rs6ZEUBSRQUK8lYKjuzCyg"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="rounded-full border border-slate-300 px-6 py-3 text-center font-bold text-slate-700"
->
-  Xを見る
-</a>
-        </div>
+  <a
+    href="https://docs.google.com/forms/d/e/1FAIpQLSevxV7IE8qIDkPFXSXiQYutoc4DZJVOLwGF_7xb6ZC7wIiM_A/viewform?usp=dialog"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="rounded-full bg-blue-600 px-6 py-3 text-center font-bold text-white"
+  >
+    有料登録する
+  </a>
+
+  <a
+    href="https://x.com/ir_watch_jp?s=21&t=Rs6ZEUBSRQUK8lYKjuzCyg"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="rounded-full border border-slate-300 px-6 py-3 text-center font-bold text-slate-700"
+  >
+    Xを見る
+  </a>
+
+</div>
       </section>
     </main>
   );
